@@ -1,0 +1,12 @@
+.\objects\vl53l0x.o: VL53L0X.c
+.\objects\vl53l0x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\vl53l0x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\vl53l0x.o: VL53L0X.h
+.\objects\vl53l0x.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\stm32f042x6.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm0.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h
+.\objects\vl53l0x.o: C:\Users\kite3\AppData\Local\Arm\Packs\Keil\STM32F0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
